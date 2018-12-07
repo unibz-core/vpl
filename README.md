@@ -4,7 +4,7 @@
 
 ### Archi:
 
-To open and edit the .archimate files, please download [Archi](https://www.archimatetool.com/), an open-source ArchiMate modeling tool.
+To open and edit .archimate files, please download [Archi](https://www.archimatetool.com/), an open-source ArchiMate modeling tool.
 
 ### Draw.io:
 
