@@ -20,9 +20,9 @@ VPL is a pattern language for modeling value in ArchiMate that has been designed
 
 ## Authors
 
-* **Tiago Prince Sales** - University of Trento, Italy - [ResearchGate Profile](https://www.researchgate.net/profile/Tiago_Prince_Sales)
+* **Tiago Prince Sales** - University of Trento, Italy - [Website](https://www.researchgate.net/profile/Tiago_Prince_Sales)
 * **Ben Roelens** - Open University, The Netherlands - [Website](http://www.mis.ugent.be/members/name/ben-roelens/)
-* **Geert Poels** - Ghent University, Belgium - [Profile](http://www.mis.ugent.be/members/name/geert-poels/)
+* **Geert Poels** - Ghent University, Belgium - [Website](http://www.mis.ugent.be/members/name/geert-poels/)
 * **Giancarlo Guizzardi** - Free University of Bozen-Bolzano, Italy - [Website](http://www.inf.ufes.br/~gguizzardi)
 * **Nicola Guarino** - ISTC-CNR Laboratory for Applied Ontology, Italy - [Website](https://www.istc.cnr.it/it/people/nicola-guarino)
 * **John Mylopoulos** - University of Trento - [Website](http://www.site.uottawa.ca/DLite/lec_2005.html)
