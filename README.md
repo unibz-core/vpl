@@ -9,8 +9,8 @@ VPL is a pattern language for modeling value in ArchiMate that has been designed
 
 ## Reusing source files
 
-* To open and edit .archimate files use [Archi](https://www.archimatetool.com/)
-* To open and edit the VPL Process specification file ([VPLProcess.xml](/source/VPLProcess.xml)) use [Draw.io](https://www.draw.io/)
+* To open and edit .archimate files, use [Archi](https://www.archimatetool.com/)
+* To open and edit the VPL Process specification file ([VPLProcess.xml](/source/VPLProcess.xml)), use [Draw.io](https://www.draw.io/)
 
 ## Built With
 
