@@ -2,6 +2,10 @@
 
 VPL is a pattern language for modeling value in ArchiMate that has been designed in compliance with COVER, the Common Ontology of ValuE and Risk.
 
+## Publications
+
+Sales, T. P., Roelens, B., Poels, G., Guizzardi, G., Guarino, N., & Mylopoulos, J. (2019). **[A pattern language for value modeling in ArchiMate](https://www.researchgate.net/profile/Tiago_Prince_Sales/publication/332112770_A_Pattern_Language_for_Value_Modeling_in_ArchiMate/links/5cf38baf4585153c3dab986d/A-Pattern-Language-for-Value-Modeling-in-ArchiMate.pdf)**. In International Conference on Advanced Information Systems Engineering (pp. 230-245). Springer, Cham.
+
 ## Project Structure
 
 * [/source](/source) contains the source files of the VPL pattern library, its process specification and the models with the cases depicting its usage.
