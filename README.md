@@ -4,7 +4,7 @@ VPL is a pattern language for modeling value in ArchiMate that has been designed
 
 ## Publications
 
-Sales, T. P., Roelens, B., Poels, G., Guizzardi, G., Guarino, N., & Mylopoulos, J. (2019). **[A pattern language for value modeling in ArchiMate](https://www.researchgate.net/profile/Tiago_Prince_Sales/publication/332112770_A_Pattern_Language_for_Value_Modeling_in_ArchiMate/links/5cf38baf4585153c3dab986d/A-Pattern-Language-for-Value-Modeling-in-ArchiMate.pdf)**. In International Conference on Advanced Information Systems Engineering (pp. 230-245). Springer, Cham.
+Sales T.P., Roelens B., Poels G., Guizzardi G., Guarino N., Mylopoulos J. (2019) **[A Pattern Language for Value Modeling in ArchiMate](https://www.researchgate.net/profile/Tiago_Prince_Sales/publication/332112770_A_Pattern_Language_for_Value_Modeling_in_ArchiMate/links/5cf38baf4585153c3dab986d/A-Pattern-Language-for-Value-Modeling-in-ArchiMate.pdf)**. In: Giorgini P., Weber B. (eds) Advanced Information Systems Engineering. CAiSE 2019. Lecture Notes in Computer Science, vol 11483. Springer, Cham. https://doi.org/10.1007/978-3-030-21290-2_15
 
 ## Project Structure
 
